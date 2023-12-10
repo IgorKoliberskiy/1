@@ -1,0 +1,20 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "\"Тема: Система типов TypeScript. Принципы ОПП. SOLID\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorKoliberskiy/ndtnf-homeworks-002-TypeScript.git"
+  },
+  "author": "igorkoliberskiy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.3.3"
+  }
+}
+
